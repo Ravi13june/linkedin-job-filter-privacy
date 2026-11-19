@@ -27,4 +27,4 @@ You can delete all locally stored preferences and license data at any time by cl
 If our data handling practices ever change, we will update this page with a new effective date and provide prominent notice within the Extension prior to collecting any new category of data.
 
 ## 8. Contact
-If you have questions about this Privacy Policy or your Pro license, contact us at **support@yourdomain.com**.
+If you have questions about this Privacy Policy or your Pro license, contact us at **gehalotkishan@gmail.com**.
